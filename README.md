@@ -1,4 +1,4 @@
 # calculator.github.io
 It is a simple calculator developed using css , html and javascript.
 It has arithmetic features.
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![priya_calculator](https://github.com/Priya129/calculator.github.io/blob/main/calc.png?raw=true)
